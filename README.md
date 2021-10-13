@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working
 - 🌱 I’m currently learning
-- 😄 Pronouns: he
+- 😄 Pronouns: he/his
 
 # joaobatista
 
