@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning
 - 😄 Pronouns: he/his
 
-## I'm João Batista - programming lover graduating in Software enginner
+## I'm João Batista - programming lover graduating in Software engineering
 <div align="center">
   <a href="https://github.com/joaobatista235">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaobatista235&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
