@@ -6,7 +6,7 @@
 
 # joaobatista
 
-## Sup! Me chamo João Batista - Tecnico em informatica graduando em Engenharia de Software
+## Me chamo João Batista - Tecnico em informatica graduando em Engenharia de Software
 <div align="center">
   <a href="https://github.com/joaobatista235">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaobatista235&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
