@@ -1,10 +1,6 @@
-### Hi there 👋
+###
 
-- 🔭 I’m currently working
-- 🌱 I’m currently learning
-- 😄 Pronouns: he/his
-
-## I'm João Batista - programming lover graduating in Software engineering
+## I'm João Batista - programming lover graduating in Software Development
 <div align="center">
   <a href="https://github.com/joaobatista235">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaobatista235&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
