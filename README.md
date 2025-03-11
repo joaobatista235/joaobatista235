@@ -1,7 +1,7 @@
 # Hi there, I'm João Batista! 👋
 
 ## 🚀 About Me
-I'm a passionate **Back-End Developer** with experience in building scalable and efficient applications. I specialize in creating robust solutions using modern technologies, following best coding practices and architectural principles.
+I'm a passionate **Fullstack Developer** with experience in building scalable and efficient applications. I specialize in creating robust solutions using modern technologies, following best coding practices and architectural principles.
 
 ## 🛠 Tech Stack
 <div align="center">
