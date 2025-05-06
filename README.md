@@ -1,5 +1,3 @@
-# Hi there, I'm João Batista! 👋
-
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
