@@ -1,5 +1,7 @@
 # Hi there, I'm João Batista! 👋
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ## 🚀 About Me
 I'm a passionate **Fullstack Developer** with experience in building scalable and efficient applications. I specialize in creating robust solutions using modern technologies, following best coding practices and architectural principles.
 
