@@ -2,20 +2,10 @@
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-## 🚀 About Me
-I'm a passionate **Fullstack Developer** with experience in building scalable and efficient applications. I specialize in creating robust solutions using modern technologies, following best coding practices and architectural principles.
-
----
-
-## 📊 GitHub Summary Cards
-<div align="center">
 
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaobatista235&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaobatista235&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | ----------- | ----------- |
 
-</div>
-
----
 
 ## 🛠 Tech Stack
 <div align="center">
