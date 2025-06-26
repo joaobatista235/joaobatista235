@@ -8,7 +8,7 @@
 ## 🛠 Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,nodejs,express,github,postman,styledcomponents,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,php,react,nodejs,express,github,postman,styledcomponents,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
   </a>
 </div>
 
