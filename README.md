@@ -38,90 +38,71 @@ Acesse meu portfólio em:
 {
   "gitfolio": "on",
   "name": "João Batista",
-  "email": "",
-  "tagline": "",
+  "email": "juniorbatista0404@gmail.com",
+  "tagline": "Full Stack Developer",
   "avatar_url": "https://avatars.githubusercontent.com/u/62124351?v=4",
   "website": "",
   "githubUser": "joaobatista235",
   "linkedinUser": "https://www.linkedin.com/in/devjoaobatista",
-  "about": "Hi! I'm João, a passionate Full Stack Developer dedicated to building innovative, scalable, and user-centered web and mobile solutions.
-My goal is to keep evolving as a developer and contribute to innovative projects that make a real difference.",
+  "about": "Hi! I'm João, a passionate Full Stack Developer dedicated to building innovative, scalable, and user-centered web and mobile solutions. My goal is to keep evolving as a developer and contribute to innovative projects that make a real difference.",
   "showStars": false,
-  "showFollowers": false,
+  "showFollowers": true,
   "followers": 23,
   "following": 13,
   "themeId": "dark",
   "tech": [
-  "PHP",
-  "Javascript",
-  "ReactJs",
-  "NodeJs",
-  "MySQL"
-],
+    "PHP",
+    "Javascript",
+    "ReactJs",
+    "NodeJs",
+    "MySQL"
+  ],
   "projects": [
-  {
-    "id": 976364850,
-    "repoName": "know-your-fan",
-    "url": "https://github.com/joaobatista235/know-your-fan",
-    "stars": 1,
-    "description": "Know Your Fan é uma plataforma completa para gerenciamento de comunidades de fãs, permitindo que organizadores de eventos possam conhecer melhor seu público e oferecer experiências mais personalizadas",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F162340761555726404%2F&psig=AOvVaw3cZ_zyl0DinCOB29XqAueF&ust=1759260999213000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCvmYPc_o8DFQAAAAAdAAAAABAE",
-    "techs": [
-      "Python/Flask",
-      "ReactJs",
-      "Chakra UI",
-      "Firebase"
-    ],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 976253024,
-    "repoName": "furia-chat-experience",
-    "url": "https://github.com/joaobatista235/furia-chat-experience",
-    "stars": 1,
-    "description": "Um chat interativo para fãs da FURIA CS2, oferecendo informações em tempo real sobre partidas, estatísticas de jogadores e dados do time.",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F162340761555726404%2F&psig=AOvVaw3cZ_zyl0DinCOB29XqAueF&ust=1759260999213000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCvmYPc_o8DFQAAAAAdAAAAABAE",
-    "techs": [
-      "ReactJs",
-      "OpenAI API",
-      "Stitches",
-      "Vite"
-    ],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 900116999,
-    "repoName": "electrify",
-    "url": "https://github.com/joaobatista235/electrify",
-    "stars": 1,
-    "description": "Electrify é um aplicativo mobile desenvolvido em React Native que permite monitorar e analisar o consumo de energia elétrica.",
-    "image": "",
-    "techs": [
-      "React Native",
-      "Expo",
-      "Firebase"
-    ],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 788581983,
-    "repoName": "srincrivel",
-    "url": "https://github.com/joaobatista235/srincrivel",
-    "stars": 1,
-    "description": "Um bot de Discord desenvolvido em Node.js v18 para um servidor pessoal entre amigos. O bot é orientado a objetos e possui funcionalidades avançadas, como reprodução de músicas, integração com IA.",
-    "image": "https://camo.githubusercontent.com/5a92940d3aa5af8a0be4d699931ab5f8f07acc7c6207cf1ac636498dec410102/68747470733a2f2f6d656469612e737469636b65727377696b692e6170702f6d726578636570742f38303535342e3531322e77656270",
-    "techs": [
-      "NodeJs",
-      "DiscordJs",
-      "FFMPEG",
-      "Gemini API"
-    ],
-    "deploy": "",
-    "highlighted": true
-  }
-]
+    {
+      "id": 976364850,
+      "repoName": "know-your-fan",
+      "url": "https://github.com/joaobatista235/know-your-fan",
+      "stars": 1,
+      "description": "Know Your Fan é uma plataforma completa para gerenciamento de comunidades de fãs.",
+      "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+      "techs": ["Python/Flask", "ReactJs", "Chakra UI", "Firebase"],
+      "deploy": "",
+      "highlighted": false
+    },
+    {
+      "id": 976253024,
+      "repoName": "furia-chat-experience",
+      "url": "https://github.com/joaobatista235/furia-chat-experience",
+      "stars": 1,
+      "description": "Um chat interativo para fãs da FURIA CS2, oferecendo informações em tempo real sobre partidas e estatísticas.",
+      "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+      "techs": ["ReactJs", "OpenAI API", "Stitches", "Vite"],
+      "deploy": "",
+      "highlighted": false
+    },
+    {
+      "id": 900116999,
+      "repoName": "electrify",
+      "url": "https://github.com/joaobatista235/electrify",
+      "stars": 1,
+      "description": "Electrify é um aplicativo mobile em React Native que permite monitorar e analisar o consumo de energia elétrica.",
+      "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+      "techs": ["React Native", "Expo", "Firebase"],
+      "deploy": "",
+      "highlighted": false
+    },
+    {
+      "id": 788581983,
+      "repoName": "srincrivel",
+      "url": "https://github.com/joaobatista235/srincrivel",
+      "stars": 1,
+      "description": "Um bot de Discord em Node.js com funcionalidades como música, integração com IA e muito mais.",
+      "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+      "techs": ["NodeJs", "DiscordJs", "FFMPEG", "Gemini API"],
+      "deploy": "",
+      "highlighted": true
+    }
+  ]
 }
 GitFolio:end -->
+
